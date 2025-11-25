@@ -54,11 +54,11 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Epidemiology
+    institution: King's College London
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2022-10-01
+    date_end: 2025-09-30
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
