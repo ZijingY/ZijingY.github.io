@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: postdoctoral Epidemiologist 
+role:  Postdoctoral Researcher 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: King's College London
     url: https://ai.meta.com/
 
 # Social network links
