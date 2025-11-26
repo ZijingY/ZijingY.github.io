@@ -43,7 +43,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=x1urPRIAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
@@ -54,7 +54,7 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Epidemiology
+  - area: PhD in Epidemiology
     institution: King's College London
     icon: ""
     date_start: 2022-10-01
@@ -64,24 +64,16 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MSc Public Health
+  - area: Master of Public Health
     institution: University of Sydney
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2020-08-03
+    date_end: 2022-01-11
     summary: |
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
@@ -169,4 +161,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am an epidemiologist specialising in the use of big data and advanced analytical approaches to study immune-mediated inflammatory diseases. My work focuses on understanding variation in disease manifestation, treatment response, and healthcare delivery by applying methods such as latent class modelling, regression discontinuity designs, causal inference techniques, and other modern statistical approaches.
+Alongside my research, I serve as a statistician within clinical research teams. I design statistical components of clinical trials and carry out analyses, and I provide expert statistical support to clinical researchers in the design and interpretation of observational studies.
+Through this combined work in epidemiology, data science, and biostatistics, I aim to advance evidence-based practice and support innovations that improve outcomes for people with chronic inflammatory disease.
