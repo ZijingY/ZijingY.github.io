@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Dr Zijing Yang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Zijing
+last_name: Yang
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: postdoctoral Epidemiologist 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -64,8 +64,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MSc Public Health
+    institution: University of Sydney
     icon: ""
     date_start: 2013-09-01
     date_end: 2015-05-31
